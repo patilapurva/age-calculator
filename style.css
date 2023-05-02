@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim', cursive; 
+    background-color: #0E2F2F;
+}
+
+h2{
+    
+    margin-left: 635px;
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
+    font-size: x-large;
+    color: rgb(255, 179, 37);
+    margin-bottom: 25px;
+}
+#age{
+    text-align: center;
+    font-size: medium;
+    margin-left: 620px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+
+}
+input{
+    border-radius: 10px;
+    background-color: #788383;
+    margin: 10px;
+    padding: auto;
+    text-align: center;
+}
+#calculator{
+    background-color: rgb(247, 173, 82);
+    border-radius: 10px;
+    margin-left: 610px;
+    margin-top: 20px;
+    margin-right: 10px;
+    padding: 8px;
+    width: 125px;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: medium;
+}
+
+#reset{
+    background-color: rgb(247, 173, 82);
+    border-radius: 10px;
+    margin-left: 590px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 8px;
+    width: 65px;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: medium;
+    border: 10px white;
+}
+#total{
+    color: white;
+    margin-left: 625px;
+    margin-top: 30px;
+    border: 10px snow;
+    font-size: large;
+}
+ul,a{
+    margin-right: 10px;
+    text-align: center;
+    font-size: x-large;
+}
+ul{
+    margin-top: 40px;
+    margin-left: 510px;
+    margin-right: 568px;
+}
+#calculator:hover{
+    background-color: rgb(83, 83, 82);
+
+}
+#reset:hover{
+    background-color: rgb(83, 83, 82);
+}
